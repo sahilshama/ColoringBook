@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fat Man.unity
+    guid: 83db6e3d63ed0db4ea6a3dd1578327de
   m_configObjects: {}
