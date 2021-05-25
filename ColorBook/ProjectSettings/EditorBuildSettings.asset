@@ -15,14 +15,26 @@ EditorBuildSettings:
     path: Assets/Scenes/ColorBook.unity
     guid: e872c9c74fbcf354b841082d7243fd90
   - enabled: 1
+    path: Assets/Scenes/ColorByNumber.unity
+    guid: 310ad4ecf4e3a184ca35e75d82a6c7d5
+  - enabled: 1
+    path: Assets/Scenes/Captain America.unity
+    guid: d4aa042b70cb8ad418ce2d69de89410e
+  - enabled: 1
     path: Assets/Scenes/Fat Man.unity
     guid: 83db6e3d63ed0db4ea6a3dd1578327de
+  - enabled: 1
+    path: Assets/Scenes/Goku.unity
+    guid: c4a255fb2e2878841a7513c44c6acd15
   - enabled: 1
     path: Assets/Scenes/Bells.unity
     guid: 7e4afd1282debe64ab0101f17b3cf558
   - enabled: 1
-    path: Assets/Scenes/Captain America.unity
-    guid: d4aa042b70cb8ad418ce2d69de89410e
+    path: Assets/Scenes/Nemo.unity
+    guid: 5f246f4d656b52d4da55beba9dee21c7
+  - enabled: 1
+    path: Assets/Scenes/Itachi.unity
+    guid: 153e7f21245026744a334d8355039567
   - enabled: 1
     path: Assets/Scenes/Fat Man Number.unity
     guid: 0c728c8cb51ffab44b432aa9513adaeb

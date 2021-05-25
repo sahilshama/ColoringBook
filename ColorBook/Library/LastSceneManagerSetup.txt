@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Main Page.unity
+- path: Assets/Scenes/Fat Man Number.unity
   isLoaded: 1
   isActive: 1
