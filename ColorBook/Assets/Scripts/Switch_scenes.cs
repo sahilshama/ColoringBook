@@ -1,18 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class Switch_scenes : MonoBehaviour
 {
+
+    public Button button;
+    public string scene1;
+
     // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        button.onClick.AddListener(onButtonclick);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void onButtonclick()
     {
-        
+        SceneManager.LoadScene(scene1);
     }
+
+    
 }
