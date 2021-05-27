@@ -6,6 +6,7 @@ public class ColorBook : MonoBehaviour
 {
 
 
+    
 
     public Color[] colorlist;
     public Color curColor;
@@ -41,11 +42,16 @@ public class ColorBook : MonoBehaviour
             }
         }
         
+
+
     }
 
+
+ 
     public void Paint(int colorCode)
     {
         colorCount = colorCode;
     }
+
 
 }
